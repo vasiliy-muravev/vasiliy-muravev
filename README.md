@@ -13,6 +13,7 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
   by [LinkedIn](https://www.linkedin.com/in/vasiliymuravev/), [vasiliymuravev@yandex.ru](vasiliymuravev@yandex.ru), [@vasiliymuravev](https://t.me/vasiliymuravev)
 
 ### Languages & tools 🛠
+
 ![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/python.svg)
 ![django](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/django.svg)
 ![docker](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/docker.svg)
@@ -24,3 +25,36 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
 ![react](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/react.svg)
 ![php](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/php.svg)
 ![laravel](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/laravel.svg)
+
+### About me
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Stack</b></td>
+      <td><b>Stage</b></td>
+      <td><b>Site Demo</b></td>
+      <td><b>Code link</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Personal VPS server for deploying portfolio projects</td>
+      <td>Debian 11, Portainer, Nginx Proxy Manager</td>
+      <td>completed</td>
+      <td><a href="https://vasiliymuravev.ru/">https://vasiliymuravev.ru/</a></td>
+      <td><a href="https://github.com/vasiliy-muravev/portfolio_cv">github</a></td>
+</tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+</tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+ </tr>
+  </tbody>
+</table>
