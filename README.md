@@ -40,21 +40,46 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
   </thead>
   <tbody>
     <tr>
+      <td>Pet project. Online role-playing game using WebSocket technology.</td>
+      <td>Django, Docker,  Vue 3 Composition API, PostgreSQL, WebSocket</td>
+      <td>in progress</td>
+      <td>none</td>
+      <td>none</td>
+    </tr>
+    <tr>
       <td>Personal VPS server for deploying portfolio projects</td>
       <td>Debian 11, Portainer, Nginx Proxy Manager</td>
       <td>completed</td>
       <td><a href="https://vasiliymuravev.ru/">https://vasiliymuravev.ru/</a></td>
       <td><a href="https://github.com/vasiliy-muravev/portfolio_cv">github</a></td>
-</tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-</tr>
+    </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
- </tr>
+      <td>Gastronomic social network for sharing culinary recipes</td>
+      <td>Django, API, Docker, PostgreSQL, СI/CD GitHub Actions, React</td>
+      <td>completed</td>
+      <td><a href="https://foodgram.vasiliymuravev.ru/recipes">https://foodgram.vasiliymuravev.ru/recipes</a></td>
+      <td><a href="https://github.com/vasiliy-muravev/foodgram">github</a></td>
+    </tr>
+    <tr>
+      <td>Cat photo sharing service</td>
+      <td>Django, API, Docker, PostgreSQL, React</td>
+      <td>completed</td>
+      <td><a href="https://vasiliymuravev.servehttp.com/">https://vasiliymuravev.servehttp.com</a></td>
+      <td><a href="https://github.com/vasiliy-muravev/kittygram_final">github</a></td>
+    </tr>
+    <tr>
+      <td>Task manager</td>
+      <td>Django, API, SQLite, React</td>
+      <td>completed</td>
+      <td><a href="https://vasiliymuravev.serveftp.com//">https://vasiliymuravev.serveftp.com</a></td>
+      <td><a href="https://github.com/vasiliy-muravev/taski-docker">github</a></td>
+    </tr>
+    <tr>
+      <td>Video service</td>
+      <td>Django, API, SQLite, React</td>
+      <td>completed</td>
+      <td>none</td>
+      <td><a href="https://github.com/vasiliy-muravev/api_final_yatube">github</a></td>
+    </tr>
   </tbody>
 </table>
