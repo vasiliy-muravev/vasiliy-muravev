@@ -13,6 +13,6 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
   by [LinkedIn](https://www.linkedin.com/in/vasiliymuravev/), [vasiliymuravev@yandex.ru](vasiliymuravev@yandex.ru), [@vasiliymuravev](https://t.me/vasiliymuravev)
 
 ### Languages & tools 🛠
-![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/pytnon.svg)
-![docker](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/docker.svg)
-![vue](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/vue.svg)
+![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/pytnon.svg)
+![docker](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/docker.svg)
+![vue](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/vue.svg)
