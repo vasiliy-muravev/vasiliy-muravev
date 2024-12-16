@@ -17,6 +17,7 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
 ![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/python.svg)
 ![django](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/django.svg)
 ![docker](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/docker.svg)
+![postgre_sql](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/postgre_sql.svg)
 ![bash](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/bash.svg)
 ![js](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/js.svg)
 ![nodejs_larger](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/nodejs_larger.svg)
