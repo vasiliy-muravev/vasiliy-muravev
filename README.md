@@ -26,7 +26,7 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
 ![php](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/php.svg)
 ![laravel](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/laravel.svg)
 
-### About me
+### Recent projects
 
 <table>
   <thead align="center">
