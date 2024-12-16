@@ -13,6 +13,14 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
   by [LinkedIn](https://www.linkedin.com/in/vasiliymuravev/), [vasiliymuravev@yandex.ru](vasiliymuravev@yandex.ru), [@vasiliymuravev](https://t.me/vasiliymuravev)
 
 ### Languages & tools 🛠
-![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/pytnon.svg)
+![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/pythnon.svg)
+![django](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/django.svg)
 ![docker](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/docker.svg)
+![bash](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/bash.svg)
+![js](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/js.svg)
+![nodejs_larger](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/nodejs_larger.svg)
+![npm](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/npm.svg)
 ![vue](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/vue.svg)
+![react](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/react.svg)
+![php](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/php.svg)
+![laravel](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/laravel.svg)
