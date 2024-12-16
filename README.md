@@ -13,7 +13,7 @@ from ![tricolour](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/a
   by [LinkedIn](https://www.linkedin.com/in/vasiliymuravev/), [vasiliymuravev@yandex.ru](vasiliymuravev@yandex.ru), [@vasiliymuravev](https://t.me/vasiliymuravev)
 
 ### Languages & tools 🛠
-![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/pythnon.svg)
+![python](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/python.svg)
 ![django](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/django.svg)
 ![docker](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/docker.svg)
 ![bash](https://github.com/vasiliy-muravev/vasiliy-muravev/blob/main/assets/badges/bash.svg)
